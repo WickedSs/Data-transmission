@@ -1,6 +1,6 @@
 # Data-transmission-
-Tranferring data between two hardwares 
-veiw project (https://guerida.io/electronics/data-transmission)
+Tranferring data between two hardwares.
+[veiw project](https://guerida.io/electronics/data-transmission)
 
 # Idea 
 Reliable data tranferring ( RDT ), which is this project that i worked on. 
